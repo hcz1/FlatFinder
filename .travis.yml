@@ -1,0 +1,13 @@
+language: java
+
+before_script:
+- cd springMvc
+
+script:
+- ./gradlew -i clean check
+
+before_install:
+- mysql -e "create database IF NOT EXISTS springMvc;" -uroot
+
+jdk:
+- oraclejdk7

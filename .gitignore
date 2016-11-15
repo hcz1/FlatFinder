@@ -1,0 +1,11 @@
+**/classes/**
+**/dependency-cache/**
+**/resources/**
+**/test-results/**
+**/tmp/**
+.gradle
+*.iml
+*.ipr
+*.iws
+*.project
+*~

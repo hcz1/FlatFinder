@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Sep 18 22:06:26 BST 2016
+org.eclipse.jst.jee.server\:/binary\:/Users/harryzachariou/.m2/repository/org/springframework/spring-web/4.2.2.RELEASE/spring-web-4.2.2.RELEASE.jar=/Users/harryzachariou/Downloads/sts-bundle/pivotal-tc-server-developer-3.1.5.RELEASE/base-instance/wtpwebapps/spring-mvc-showcase/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar
+org.eclipse.jst.jee.server\:spring-mvc-showcase=/Users/harryzachariou/Downloads/sts-bundle/pivotal-tc-server-developer-3.1.5.RELEASE/base-instance/wtpwebapps/spring-mvc-showcase
